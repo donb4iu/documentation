@@ -1,2 +1,2 @@
 # documentation
-repository of documentation generation
+repository for documentation generation
